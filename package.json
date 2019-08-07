@@ -1,0 +1,26 @@
+{
+  "name": "unit-test-step",
+  "version": "1.0.0",
+  "description": "step by step to use unit-test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crixusshen/unit-test-step.git"
+  },
+  "author": "shenzhiwei",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/crixusshen/unit-test-step/issues"
+  },
+  "homepage": "https://github.com/crixusshen/unit-test-step#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0",
+    "power-assert": "^1.6.1"
+  }
+}
